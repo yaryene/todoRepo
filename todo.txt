@@ -2,3 +2,5 @@ My todos
 1. Reading
 2. Listening
 3. running
+4. Swimming
+5. Watching Movies

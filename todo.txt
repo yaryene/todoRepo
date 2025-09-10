@@ -4,3 +4,4 @@ My todos
 3. running
 4. Swimming
 5. Watching Movies
+6. shopping
